@@ -52,8 +52,5 @@ body {
 .container > span:nth-child(9) {
     animation-delay: 0.60s;
 }
-.container > span:nth-child(10) {
-    animation-delay: 0.60s;
-}
 
 
